@@ -8,7 +8,7 @@
 
 ## Note
 - db_sembako.sql : Database untuk Project Laravel
-- si_sembako(MINI DATABASE PROJECT).sql : Database yang dibuat pada tugas sebelumnya pada Mini Project 1
+- si_sembako(MINI DATABASE PROJECT).sql : Database yang dibuat pada tugas sebelumnya pada Mini Project Database
 
 ## Fitur Pada Website
 - Cread, Read, Update dan Delete Data pada semua tabel.
